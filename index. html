@@ -12,6 +12,9 @@
 
 body>
         
+        <p><a href="abou us" >about us</a> </p>
+        <p><a href="next page" >next page</a> </p>
+        <p><a href="contact us" >contact us</a> </p>
         <p><a href="home" >Home</a> </p>
     </body>
         <div>
